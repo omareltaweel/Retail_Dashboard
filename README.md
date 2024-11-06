@@ -62,7 +62,3 @@ This enables users to explore data trends and perform time-based analyses.
 - Use Power BI (or another BI tool) to design visualizations and KPIs.
 Set up dynamic filters and drill-downs for an interactive experience, providing deeper insights into the data.
 
-## 4️⃣ Build the Dashboard
-
-- Use Power BI (or another BI tool) to design visualizations and KPIs.
-Set up dynamic filters and drill-downs for an interactive experience, providing deeper insights into the data.
