@@ -2,7 +2,7 @@
 
 ## Project Overview 🚀
 
-<!-- Transforming Data into Insights: Building a Comprehensive Sales Dashboard 🚀
+-Transforming Data into Insights: Building a Comprehensive Sales Dashboard 🚀
 Welcome to the repository for the Retail Sales Dashboard project! This dashboard provides a 360-degree view of sales performance across various dimensions, enabling data-driven decision-making and delivering actionable insights. It transforms raw sales data into a visual powerhouse, helping businesses optimize their strategies and boost performance.
 
 ##Key Highlights 📊
@@ -56,6 +56,11 @@ Define fact tables and key dimensions such as Customer, Product, Region, and Dat
 
 -Implement a comprehensive date table for time-based analysis (monthly, quarterly, yearly).
 This enables users to explore data trends and perform time-based analyses.
+
+##4️⃣ Build the Dashboard
+
+-Use Power BI (or another BI tool) to design visualizations and KPIs.
+Set up dynamic filters and drill-downs for an interactive experience, providing deeper insights into the data.
 
 ##4️⃣ Build the Dashboard
 
