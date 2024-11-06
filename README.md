@@ -1,4 +1,4 @@
-# Retail_Dashboard
+# Retail_Sales_Dashboard
 
 ## Project Overview 🚀
 
